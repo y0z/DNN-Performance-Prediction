@@ -5,7 +5,7 @@ See implementation.ipynb.
 # Citation
 
 ```bibtex
-@INPROCEEDINGS{ozaki-neldermead19,
+@INPROCEEDINGS{ozaki-practical19,
 author    = {Y. Ozaki and M. Onishi},
 title     = {Practical Deep Neural Network Performance Prediction for Hyperparameter Optimization},
 booktitle = {KDD AutoML 2019 Workshop},
